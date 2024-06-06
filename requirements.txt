@@ -1,13 +1,1 @@
-black
-flake8
-isort
-numpy
-Pillow
-scikit-learn
-scipy
-tabulate
-tqdm
-yacs
-future
-tensorboard
-fvcore
+
